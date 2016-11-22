@@ -1,0 +1,843 @@
+Archive member included because of file (symbol)
+
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o)
+                              ./Generated_Code/Motor_A_En.o (__aeabi_fcmpgt)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+                              ./Generated_Code/Motor_A_En.o (__aeabi_f2uiz)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+                              ./Generated_Code/Motor_A_En.o (__aeabi_fmul)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o) (__aeabi_fsub)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o) (__aeabi_f2iz)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+                              ./Generated_Code/Motor_A_En.o (__aeabi_i2f)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o) (__clzsi2)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+LCD_In_Data         0x10              ./Sources/main.o
+i                   0x1               ./Sources/main.o
+Motor_A_En_Ptr      0x4               ./Sources/main.o
+Motor_A_Ph_Ptr      0x4               ./Sources/main.o
+SR_reg              0x1               ./Generated_Code/Cpu.o
+IMU_LCD_Ptr         0x4               ./Sources/main.o
+Error               0x2               ./Sources/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 ./Sources/Events.o
+ .data          0x00000000        0x0 ./Sources/Events.o
+ .bss           0x00000000        0x0 ./Sources/Events.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .data.LCD_Out_Data
+                0x00000000        0x4 ./Sources/main.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .text.__init_hardware
+                0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text.__iar_program_start
+                0x00000000        0xc ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Generated_Code/Button.o
+ .data          0x00000000        0x0 ./Generated_Code/Button.o
+ .bss           0x00000000        0x0 ./Generated_Code/Button.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Button.o
+ .text.Button_Init
+                0x00000000       0x40 ./Generated_Code/Button.o
+ .text.Button_GetVal
+                0x00000000       0x28 ./Generated_Code/Button.o
+ .comment       0x00000000       0x71 ./Generated_Code/Button.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Button.o
+ .text          0x00000000        0x0 ./Generated_Code/Button_Init.o
+ .data          0x00000000        0x0 ./Generated_Code/Button_Init.o
+ .bss           0x00000000        0x0 ./Generated_Code/Button_Init.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./Generated_Code/Encoder_A0.o
+ .data          0x00000000        0x0 ./Generated_Code/Encoder_A0.o
+ .bss           0x00000000        0x0 ./Generated_Code/Encoder_A0.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Encoder_A0.o
+ .text.Encoder_A0_Init
+                0x00000000       0x54 ./Generated_Code/Encoder_A0.o
+ .text.Encoder_A0_GetVal
+                0x00000000       0x28 ./Generated_Code/Encoder_A0.o
+ .comment       0x00000000       0x71 ./Generated_Code/Encoder_A0.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Encoder_A0.o
+ .text          0x00000000        0x0 ./Generated_Code/Encoder_A1.o
+ .data          0x00000000        0x0 ./Generated_Code/Encoder_A1.o
+ .bss           0x00000000        0x0 ./Generated_Code/Encoder_A1.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Encoder_A1.o
+ .text.Encoder_A1_Init
+                0x00000000       0x54 ./Generated_Code/Encoder_A1.o
+ .text.Encoder_A1_GetVal
+                0x00000000       0x28 ./Generated_Code/Encoder_A1.o
+ .comment       0x00000000       0x71 ./Generated_Code/Encoder_A1.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Encoder_A1.o
+ .text          0x00000000        0x0 ./Generated_Code/Encoder_B0.o
+ .data          0x00000000        0x0 ./Generated_Code/Encoder_B0.o
+ .bss           0x00000000        0x0 ./Generated_Code/Encoder_B0.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Encoder_B0.o
+ .text.Encoder_B0_Init
+                0x00000000       0x58 ./Generated_Code/Encoder_B0.o
+ .text.Encoder_B0_GetVal
+                0x00000000       0x28 ./Generated_Code/Encoder_B0.o
+ .comment       0x00000000       0x71 ./Generated_Code/Encoder_B0.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Encoder_B0.o
+ .text          0x00000000        0x0 ./Generated_Code/Encoder_B1.o
+ .data          0x00000000        0x0 ./Generated_Code/Encoder_B1.o
+ .bss           0x00000000        0x0 ./Generated_Code/Encoder_B1.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Encoder_B1.o
+ .text.Encoder_B1_Init
+                0x00000000       0x58 ./Generated_Code/Encoder_B1.o
+ .text.Encoder_B1_GetVal
+                0x00000000       0x28 ./Generated_Code/Encoder_B1.o
+ .comment       0x00000000       0x71 ./Generated_Code/Encoder_B1.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Encoder_B1.o
+ .text          0x00000000        0x0 ./Generated_Code/IMU_LCD.o
+ .data          0x00000000        0x0 ./Generated_Code/IMU_LCD.o
+ .bss           0x00000000        0x0 ./Generated_Code/IMU_LCD.o
+ .text.IMU_LCD_MasterReceiveBlock
+                0x00000000      0x19c ./Generated_Code/IMU_LCD.o
+ .text.IMU_LCD_SelectSlaveDevice
+                0x00000000      0x100 ./Generated_Code/IMU_LCD.o
+ .text          0x00000000        0x0 ./Generated_Code/IR_Range_In.o
+ .data          0x00000000        0x0 ./Generated_Code/IR_Range_In.o
+ .bss           0x00000000        0x0 ./Generated_Code/IR_Range_In.o
+ .rodata.ChannelToPin
+                0x00000000        0x4 ./Generated_Code/IR_Range_In.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x8 ./Generated_Code/IR_Range_In.o
+ .text.IR_Range_In_Init
+                0x00000000       0x80 ./Generated_Code/IR_Range_In.o
+ .text.IR_Range_In_StartSingleMeasurement
+                0x00000000       0x44 ./Generated_Code/IR_Range_In.o
+ .text.IR_Range_In_CreateSampleGroup
+                0x00000000       0x5c ./Generated_Code/IR_Range_In.o
+ .text.IR_Range_In_GetMeasuredValues
+                0x00000000       0x60 ./Generated_Code/IR_Range_In.o
+ .comment       0x00000000       0x71 ./Generated_Code/IR_Range_In.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/IR_Range_In.o
+ .text          0x00000000        0x0 ./Generated_Code/IR_Range_Out.o
+ .data          0x00000000        0x0 ./Generated_Code/IR_Range_Out.o
+ .bss           0x00000000        0x0 ./Generated_Code/IR_Range_Out.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0xc ./Generated_Code/IR_Range_Out.o
+ .text.IR_Range_Out_Init
+                0x00000000       0x58 ./Generated_Code/IR_Range_Out.o
+ .text.IR_Range_Out_SetRatio16
+                0x00000000       0x2c ./Generated_Code/IR_Range_Out.o
+ .text.SetRatio
+                0x00000000       0x68 ./Generated_Code/IR_Range_Out.o
+ .comment       0x00000000       0x71 ./Generated_Code/IR_Range_Out.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/IR_Range_Out.o
+ .text          0x00000000        0x0 ./Generated_Code/Motor_A_En.o
+ .data          0x00000000        0x0 ./Generated_Code/Motor_A_En.o
+ .bss           0x00000000        0x0 ./Generated_Code/Motor_A_En.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0xc ./Generated_Code/Motor_A_En.o
+ .text.Motor_A_En_Init
+                0x00000000       0x58 ./Generated_Code/Motor_A_En.o
+ .text.Motor_A_En_SetRatio16
+                0x00000000       0x2c ./Generated_Code/Motor_A_En.o
+ .text.Motor_A_En_SetDutyMS
+                0x00000000       0x78 ./Generated_Code/Motor_A_En.o
+ .text.SetRatio
+                0x00000000       0x68 ./Generated_Code/Motor_A_En.o
+ .comment       0x00000000       0x71 ./Generated_Code/Motor_A_En.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Motor_A_En.o
+ .text          0x00000000        0x0 ./Generated_Code/Motor_A_Ph.o
+ .data          0x00000000        0x0 ./Generated_Code/Motor_A_Ph.o
+ .bss           0x00000000        0x0 ./Generated_Code/Motor_A_Ph.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Motor_A_Ph.o
+ .text.Motor_A_Ph_Init
+                0x00000000       0x60 ./Generated_Code/Motor_A_Ph.o
+ .text.Motor_A_Ph_GetVal
+                0x00000000       0x28 ./Generated_Code/Motor_A_Ph.o
+ .text.Motor_A_Ph_PutVal
+                0x00000000       0x30 ./Generated_Code/Motor_A_Ph.o
+ .text.Motor_A_Ph_ClrVal
+                0x00000000       0x18 ./Generated_Code/Motor_A_Ph.o
+ .text.Motor_A_Ph_SetVal
+                0x00000000       0x18 ./Generated_Code/Motor_A_Ph.o
+ .comment       0x00000000       0x71 ./Generated_Code/Motor_A_Ph.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Motor_A_Ph.o
+ .text          0x00000000        0x0 ./Generated_Code/Motor_B_En.o
+ .data          0x00000000        0x0 ./Generated_Code/Motor_B_En.o
+ .bss           0x00000000        0x0 ./Generated_Code/Motor_B_En.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0xc ./Generated_Code/Motor_B_En.o
+ .text.Motor_B_En_Init
+                0x00000000       0x58 ./Generated_Code/Motor_B_En.o
+ .text.Motor_B_En_SetRatio16
+                0x00000000       0x2c ./Generated_Code/Motor_B_En.o
+ .text.Motor_B_En_SetDutyMS
+                0x00000000       0x78 ./Generated_Code/Motor_B_En.o
+ .text.SetRatio
+                0x00000000       0x68 ./Generated_Code/Motor_B_En.o
+ .comment       0x00000000       0x71 ./Generated_Code/Motor_B_En.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Motor_B_En.o
+ .text          0x00000000        0x0 ./Generated_Code/Motor_B_Ph.o
+ .data          0x00000000        0x0 ./Generated_Code/Motor_B_Ph.o
+ .bss           0x00000000        0x0 ./Generated_Code/Motor_B_Ph.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/Motor_B_Ph.o
+ .text.Motor_B_Ph_Init
+                0x00000000       0x60 ./Generated_Code/Motor_B_Ph.o
+ .text.Motor_B_Ph_GetVal
+                0x00000000       0x28 ./Generated_Code/Motor_B_Ph.o
+ .text.Motor_B_Ph_PutVal
+                0x00000000       0x30 ./Generated_Code/Motor_B_Ph.o
+ .text.Motor_B_Ph_ClrVal
+                0x00000000       0x18 ./Generated_Code/Motor_B_Ph.o
+ .text.Motor_B_Ph_SetVal
+                0x00000000       0x18 ./Generated_Code/Motor_B_Ph.o
+ .comment       0x00000000       0x71 ./Generated_Code/Motor_B_Ph.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Motor_B_Ph.o
+ .text          0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .data          0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .bss           0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .rodata.PE_CpuClockConfigurations
+                0x00000000       0x28 ./Generated_Code/PE_LDD.o
+ .text.PE_FillMemory
+                0x00000000       0x24 ./Generated_Code/PE_LDD.o
+ .text.PE_PeripheralUsed
+                0x00000000       0x8c ./Generated_Code/PE_LDD.o
+ .text.LDD_SetClockConfiguration
+                0x00000000       0x14 ./Generated_Code/PE_LDD.o
+ .text          0x00000000        0x0 ./Generated_Code/Sample_IR.o
+ .data          0x00000000        0x0 ./Generated_Code/Sample_IR.o
+ .bss           0x00000000        0x0 ./Generated_Code/Sample_IR.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0xc ./Generated_Code/Sample_IR.o
+ .text.Sample_IR_Init
+                0x00000000       0x50 ./Generated_Code/Sample_IR.o
+ .text          0x00000000        0x0 ./Generated_Code/TU1.o
+ .data          0x00000000        0x0 ./Generated_Code/TU1.o
+ .bss           0x00000000        0x0 ./Generated_Code/TU1.o
+ .rodata.ChannelDevice
+                0x00000000        0x4 ./Generated_Code/TU1.o
+ .rodata.ChannelMode
+                0x00000000        0x4 ./Generated_Code/TU1.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x8 ./Generated_Code/TU1.o
+ .text.TU1_Init
+                0x00000000       0xe8 ./Generated_Code/TU1.o
+ .text.TU1_GetPeriodTicks
+                0x00000000       0x3c ./Generated_Code/TU1.o
+ .text.TU1_GetCounterValue
+                0x00000000       0x1c ./Generated_Code/TU1.o
+ .text.TU1_SetOffsetTicks
+                0x00000000       0x58 ./Generated_Code/TU1.o
+ .text.TU1_GetOffsetTicks
+                0x00000000       0x64 ./Generated_Code/TU1.o
+ .text.TU1_SelectOutputAction
+                0x00000000      0x248 ./Generated_Code/TU1.o
+ .comment       0x00000000       0x71 ./Generated_Code/TU1.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/TU1.o
+ .text          0x00000000        0x0 ./Generated_Code/TU2.o
+ .data          0x00000000        0x0 ./Generated_Code/TU2.o
+ .bss           0x00000000        0x0 ./Generated_Code/TU2.o
+ .rodata.ChannelDevice
+                0x00000000        0x4 ./Generated_Code/TU2.o
+ .rodata.ChannelMode
+                0x00000000        0x4 ./Generated_Code/TU2.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x8 ./Generated_Code/TU2.o
+ .text.TU2_Init
+                0x00000000       0xd4 ./Generated_Code/TU2.o
+ .text.TU2_GetPeriodTicks
+                0x00000000       0x3c ./Generated_Code/TU2.o
+ .text.TU2_GetCounterValue
+                0x00000000       0x1c ./Generated_Code/TU2.o
+ .text.TU2_SetOffsetTicks
+                0x00000000       0x44 ./Generated_Code/TU2.o
+ .text.TU2_GetOffsetTicks
+                0x00000000       0x4c ./Generated_Code/TU2.o
+ .text.TU2_SelectOutputAction
+                0x00000000      0x1d0 ./Generated_Code/TU2.o
+ .comment       0x00000000       0x71 ./Generated_Code/TU2.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/TU2.o
+ .text          0x00000000        0x0 ./Generated_Code/TU3.o
+ .data          0x00000000        0x0 ./Generated_Code/TU3.o
+ .bss           0x00000000        0x0 ./Generated_Code/TU3.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x8 ./Generated_Code/TU3.o
+ .text.TU3_Init
+                0x00000000       0xbc ./Generated_Code/TU3.o
+ .text          0x00000000        0x0 ./Generated_Code/Vectors.o
+ .data          0x00000000        0x0 ./Generated_Code/Vectors.o
+ .bss           0x00000000        0x0 ./Generated_Code/Vectors.o
+ .text          0x00000000        0x0 ./Generated_Code/WiFi.o
+ .data          0x00000000        0x0 ./Generated_Code/WiFi.o
+ .bss           0x00000000        0x0 ./Generated_Code/WiFi.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000       0x18 ./Generated_Code/WiFi.o
+ .text.WiFi_Init
+                0x00000000      0x1b0 ./Generated_Code/WiFi.o
+ .text.WiFi_ReceiveBlock
+                0x00000000       0x98 ./Generated_Code/WiFi.o
+ .text.WiFi_SendBlock
+                0x00000000       0xc4 ./Generated_Code/WiFi.o
+ .text          0x00000000        0x0 ./Generated_Code/WiFi_PD.o
+ .data          0x00000000        0x0 ./Generated_Code/WiFi_PD.o
+ .bss           0x00000000        0x0 ./Generated_Code/WiFi_PD.o
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x00000000        0x4 ./Generated_Code/WiFi_PD.o
+ .text.WiFi_PD_Init
+                0x00000000       0x68 ./Generated_Code/WiFi_PD.o
+ .text.WiFi_PD_GetVal
+                0x00000000       0x28 ./Generated_Code/WiFi_PD.o
+ .text.WiFi_PD_PutVal
+                0x00000000       0x34 ./Generated_Code/WiFi_PD.o
+ .text.WiFi_PD_ClrVal
+                0x00000000       0x1c ./Generated_Code/WiFi_PD.o
+ .text.WiFi_PD_SetVal
+                0x00000000       0x1c ./Generated_Code/WiFi_PD.o
+ .comment       0x00000000       0x71 ./Generated_Code/WiFi_PD.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/WiFi_PD.o
+ .text          0x00000000       0x74 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x30 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000000       0x28 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_fixunssfsi.o)
+ .text          0x00000000       0x54 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(eqsf2.o)
+ .text          0x00000000       0x90 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+ .debug_frame   0x00000000       0x30 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(gesf2.o)
+ .text          0x00000000       0x98 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+ .debug_frame   0x00000000       0x30 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(lesf2.o)
+ .text          0x00000000      0x254 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .rodata        0x00000000       0x40 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000       0x3c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(mulsf3.o)
+ .text          0x00000000      0x2ec c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+ .debug_frame   0x00000000       0x30 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(subsf3.o)
+ .text          0x00000000       0x40 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00000000       0x20 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(fixsfsi.o)
+ .text          0x00000000       0xb8 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+ .debug_frame   0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(floatsisf.o)
+ .text          0x00000000       0x3c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000c0         xr
+m_text           0x00000410         0x00007bf0         xr
+m_data           0x1ffffc00         0x00001000         rw
+m_cfmprotrom     0x00000400         0x00000010         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD ./Sources/Events.o
+LOAD ./Sources/main.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./Generated_Code/Button.o
+LOAD ./Generated_Code/Button_Init.o
+LOAD ./Generated_Code/Cpu.o
+LOAD ./Generated_Code/Encoder_A0.o
+LOAD ./Generated_Code/Encoder_A1.o
+LOAD ./Generated_Code/Encoder_B0.o
+LOAD ./Generated_Code/Encoder_B1.o
+LOAD ./Generated_Code/IMU_LCD.o
+LOAD ./Generated_Code/IR_Range_In.o
+LOAD ./Generated_Code/IR_Range_Out.o
+LOAD ./Generated_Code/Motor_A_En.o
+LOAD ./Generated_Code/Motor_A_Ph.o
+LOAD ./Generated_Code/Motor_B_En.o
+LOAD ./Generated_Code/Motor_B_Ph.o
+LOAD ./Generated_Code/PE_LDD.o
+LOAD ./Generated_Code/Sample_IR.o
+LOAD ./Generated_Code/TU1.o
+LOAD ./Generated_Code/TU2.o
+LOAD ./Generated_Code/TU3.o
+LOAD ./Generated_Code/Vectors.o
+LOAD ./Generated_Code/WiFi.o
+LOAD ./Generated_Code/WiFi_PD.o
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libstdc++_s.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libm.a
+START GROUP
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+LOAD c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x20000c00                _estack = 0x20000c00
+                0x20000c00                __SP_INIT = _estack
+                0x20000c00                __stack = _estack
+                0x00000000                __heap_size = 0x0
+                0x00000100                __stack_size = 0x100
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __vector_table = .
+                0x00000000                . = ALIGN (0x4)
+ *(.vectortable)
+ .vectortable   0x00000000       0xc0 ./Generated_Code/Vectors.o
+                0x00000000                __vect_table
+                0x000000c0                . = ALIGN (0x4)
+
+.cfmprotect     0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.cfmconfig)
+ .cfmconfig     0x00000400       0x10 ./Generated_Code/Cpu.o
+                0x00000400                _cfm
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410      0xfa8
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x60 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .text          0x00000470       0x78 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00000470                _start
+                0x00000470                _mainCRTStartup
+ *(.text*)
+ .text.Cpu_OnNMIINT
+                0x000004e8        0x8 ./Sources/Events.o
+                0x000004e8                Cpu_OnNMIINT
+ .text.WiFi_OnBlockReceived
+                0x000004f0       0x10 ./Sources/Events.o
+                0x000004f0                WiFi_OnBlockReceived
+ .text.WiFi_OnBlockSent
+                0x00000500       0x10 ./Sources/Events.o
+                0x00000500                WiFi_OnBlockSent
+ .text.IMU_LCD_OnMasterBlockSent
+                0x00000510       0x18 ./Sources/Events.o
+                0x00000510                IMU_LCD_OnMasterBlockSent
+ .text.IMU_LCD_OnMasterBlockReceived
+                0x00000528       0x18 ./Sources/Events.o
+                0x00000528                IMU_LCD_OnMasterBlockReceived
+ .text.Sample_IR_OnInterrupt
+                0x00000540       0x10 ./Sources/Events.o
+                0x00000540                Sample_IR_OnInterrupt
+ .text.Delay    0x00000550       0x24 ./Sources/main.o
+                0x00000550                Delay
+ .text.command  0x00000574      0x100 ./Sources/main.o
+                0x00000574                command
+ .text.write    0x00000674      0x100 ./Sources/main.o
+                0x00000674                write
+ .text.init     0x00000774       0xb8 ./Sources/main.o
+                0x00000774                init
+ .text.main     0x0000082c       0x48 ./Sources/main.o
+                0x0000082c                main
+ .text.__copy_rom_section
+                0x00000874       0xd8 ./Project_Settings/Startup_Code/startup.o
+                0x00000874                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x0000094c       0x98 ./Project_Settings/Startup_Code/startup.o
+                0x0000094c                __copy_rom_sections_to_ram
+ .text.__init_registers
+                0x000009e4        0x8 ./Project_Settings/Startup_Code/startup.o
+                0x000009e4                __init_registers
+ .text.__init_user
+                0x000009ec        0x8 ./Project_Settings/Startup_Code/startup.o
+                0x000009ec                __init_user
+ .text.__thumb_startup
+                0x000009f4       0x30 ./Project_Settings/Startup_Code/startup.o
+                0x000009f4                __thumb_startup
+ .text.Button_Init_Init
+                0x00000a24       0x1c ./Generated_Code/Button_Init.o
+                0x00000a24                Button_Init_Init
+ .text.Cpu_INT_NMIInterrupt
+                0x00000a40        0xc ./Generated_Code/Cpu.o
+                0x00000a40                Cpu_INT_NMIInterrupt
+ .text.Cpu_Interrupt
+                0x00000a4c        0xc ./Generated_Code/Cpu.o
+                0x00000a4c                Cpu_Interrupt
+ .text.__init_hardware
+                0x00000a58      0x100 ./Generated_Code/Cpu.o
+                0x00000a58                __init_hardware
+ .text.PE_low_level_init
+                0x00000b58       0xfc ./Generated_Code/Cpu.o
+                0x00000b58                PE_low_level_init
+ .text.IMU_LCD_Interrupt
+                0x00000c54      0x278 ./Generated_Code/IMU_LCD.o
+                0x00000c54                IMU_LCD_Interrupt
+ .text.IMU_LCD_Init
+                0x00000ecc      0x114 ./Generated_Code/IMU_LCD.o
+                0x00000ecc                IMU_LCD_Init
+ .text.IMU_LCD_MasterSendBlock
+                0x00000fe0      0x19c ./Generated_Code/IMU_LCD.o
+                0x00000fe0                IMU_LCD_MasterSendBlock
+ .text.TU3_OnCounterRestart
+                0x0000117c       0x24 ./Generated_Code/Sample_IR.o
+                0x0000117c                TU3_OnCounterRestart
+ .text.TU3_Interrupt
+                0x000011a0       0x30 ./Generated_Code/TU3.o
+                0x000011a0                TU3_Interrupt
+ .text.InterruptRx
+                0x000011d0       0x58 ./Generated_Code/WiFi.o
+ .text.InterruptTx
+                0x00001228       0x80 ./Generated_Code/WiFi.o
+ .text.WiFi_Interrupt
+                0x000012a8       0x64 ./Generated_Code/WiFi.o
+                0x000012a8                WiFi_Interrupt
+ .text.exit     0x0000130c       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+                0x0000130c                exit
+ .text.__libc_init_array
+                0x00001338       0x4c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+                0x00001338                __libc_init_array
+ .text.memset   0x00001384       0x10 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+                0x00001384                memset
+ .text._exit    0x00001394        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                0x00001394                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00001398        0x2 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ *fill*         0x0000139a        0x2 
+ .rodata._global_impure_ptr
+                0x0000139c        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+                0x0000139c                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000013a0        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ *(.init)
+ .init          0x000013a0        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x000013a0                _init
+ .init          0x000013a4        0x8 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x000013ac        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x000013ac                _fini
+ .fini          0x000013b0        0x8 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x000013b8                . = ALIGN (0x4)
+                0x000013b8                _etext = .
+
+.vfp11_veneer   0x000013b8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000013b8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000013b8        0x0
+ .iplt          0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000013b8        0x8
+                0x000013b8                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x000013b8        0x8 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000013c0                __exidx_end = .
+
+.rel.dyn        0x000013c0        0x0
+ .rel.iplt      0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.ctors          0x000013c0        0x0
+                0x000013c0                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x000013c0                __CTOR_END__ = .
+
+.dtors          0x000013c0        0x0
+                0x000013c0                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x000013c0                __DTOR_END__ = .
+
+.preinit_array  0x000013c0        0x0
+                0x000013c0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x000013c0                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000013c0        0x4
+                0x000013c0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x000013c0        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x000013c4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000013c4        0x4
+                0x000013c4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000013c4        0x4 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x000013c8                PROVIDE (__fini_array_end, .)
+                0x000013c8                ___ROM_AT = .
+
+.mtb            0x1ffffc00        0x0
+                0x1ffffc00                . = ALIGN (0x8)
+                0x1ffffc00                _mtb_start = .
+ *(.mtb_buf)
+                0x1ffffc00                . = ALIGN (0x8)
+                0x1ffffc00                _mtb_end = .
+
+.data           0x1ffffc00       0x60 load address 0x000013c8
+                0x1ffffc00                . = ALIGN (0x4)
+                0x1ffffc00                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.impure_data
+                0x1ffffc00       0x60 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+                0x1ffffc60                . = ALIGN (0x4)
+                0x1ffffc60                _edata = .
+                0x00000060                ___data_size = (_edata - _sdata)
+
+.jcr            0x1ffffc60        0x0 load address 0x00001428
+ .jcr           0x1ffffc60        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.igot.plt       0x1ffffc60        0x0 load address 0x00001428
+ .igot.plt      0x00000000        0x0 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x1ffffc60                . = ALIGN (0x4)
+
+.bss            0x1ffffc60       0xb0 load address 0x00001428
+                0x1ffffc60                __START_BSS = .
+                0x1ffffc60                PROVIDE (__bss_start__, __START_BSS)
+ *(.bss)
+ .bss           0x1ffffc60       0x1c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ *(.bss*)
+ .bss.IMU_LCD_DataReceivedFlg
+                0x1ffffc7c        0x1 ./Sources/main.o
+                0x1ffffc7c                IMU_LCD_DataReceivedFlg
+ .bss.IMU_LCD_DataTransmittedFlg
+                0x1ffffc7d        0x1 ./Sources/main.o
+                0x1ffffc7d                IMU_LCD_DataTransmittedFlg
+ .bss.SR_lock   0x1ffffc7e        0x1 ./Generated_Code/Cpu.o
+                0x1ffffc7e                SR_lock
+ *fill*         0x1ffffc7f        0x1 
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x1ffffc80       0x18 ./Generated_Code/IMU_LCD.o
+ .bss.INT_I2C0__DEFAULT_RTOS_ISRPARAM
+                0x1ffffc98        0x4 ./Generated_Code/IMU_LCD.o
+ .bss.PE_LDD_DeviceDataList
+                0x1ffffc9c       0x48 ./Generated_Code/PE_LDD.o
+                0x1ffffc9c                PE_LDD_DeviceDataList
+ .bss.INT_LPTimer__DEFAULT_RTOS_ISRPARAM
+                0x1ffffce4        0x4 ./Generated_Code/TU3.o
+ .bss.INT_UART0__DEFAULT_RTOS_ISRPARAM
+                0x1ffffce8        0x4 ./Generated_Code/WiFi.o
+ *(COMMON)
+ COMMON         0x1ffffcec       0x22 ./Sources/main.o
+                0x1ffffcec                LCD_In_Data
+                0x1ffffcfc                i
+                0x1ffffd00                Motor_A_En_Ptr
+                0x1ffffd04                Motor_A_Ph_Ptr
+                0x1ffffd08                IMU_LCD_Ptr
+                0x1ffffd0c                Error
+ COMMON         0x1ffffd0e        0x1 ./Generated_Code/Cpu.o
+                0x1ffffd0e                SR_reg
+                0x1ffffd10                . = ALIGN (0x4)
+ *fill*         0x1ffffd0f        0x1 
+                0x1ffffd10                __END_BSS = .
+                0x1ffffd10                PROVIDE (__bss_end__, __END_BSS)
+                0x00001428                _romp_at = (___ROM_AT + SIZEOF (.data))
+
+.romp           0x1ffffd10       0x18 load address 0x00001428
+                0x00001428                __S_romp = _romp_at
+                0x1ffffd10        0x4 LONG 0x13c8 ___ROM_AT
+                0x1ffffd14        0x4 LONG 0x1ffffc00 _sdata
+                0x1ffffd18        0x4 LONG 0x60 ___data_size
+                0x1ffffd1c        0x4 LONG 0x0
+                0x1ffffd20        0x4 LONG 0x0
+                0x1ffffd24        0x4 LONG 0x0
+
+._user_heap_stack
+                0x1ffffd28      0x100 load address 0x00001440
+                0x1ffffd28                . = ALIGN (0x4)
+                0x1ffffd28                PROVIDE (end, .)
+                0x1ffffd28                PROVIDE (_end, .)
+                0x1ffffd28                __heap_addr = .
+                0x1ffffd28                __HeapBase = .
+                0x1ffffd28                . = (. + __heap_size)
+                0x1ffffd28                __HeapLimit = .
+                0x1ffffe28                . = (. + __stack_size)
+ *fill*         0x1ffffd28      0x100 
+                0x1ffffe28                . = ALIGN (0x4)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x32 ./Sources/Events.o
+ .ARM.attributes
+                0x00000097       0x32 ./Sources/main.o
+ .ARM.attributes
+                0x000000c9       0x32 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x000000fb       0x32 ./Generated_Code/Button_Init.o
+ .ARM.attributes
+                0x0000012d       0x32 ./Generated_Code/Cpu.o
+ .ARM.attributes
+                0x0000015f       0x32 ./Generated_Code/IMU_LCD.o
+ .ARM.attributes
+                0x00000191       0x32 ./Generated_Code/PE_LDD.o
+ .ARM.attributes
+                0x000001c3       0x32 ./Generated_Code/Sample_IR.o
+ .ARM.attributes
+                0x000001f5       0x32 ./Generated_Code/TU3.o
+ .ARM.attributes
+                0x00000227       0x32 ./Generated_Code/Vectors.o
+ .ARM.attributes
+                0x00000259       0x32 ./Generated_Code/WiFi.o
+ .ARM.attributes
+                0x0000028b       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000002b7       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002e3       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000030f       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000033b       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000367       0x1e c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+OUTPUT(KL05_Robot.elf elf32-littlearm)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./Sources/Events.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./Sources/main.o
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/startup.o
+ .comment       0x00000000       0x71 ./Generated_Code/Button_Init.o
+ .comment       0x00000000       0x71 ./Generated_Code/Cpu.o
+ .comment       0x00000000       0x71 ./Generated_Code/IMU_LCD.o
+ .comment       0x00000000       0x71 ./Generated_Code/PE_LDD.o
+ .comment       0x00000000       0x71 ./Generated_Code/Sample_IR.o
+ .comment       0x00000000       0x71 ./Generated_Code/TU3.o
+ .comment       0x00000000       0x71 ./Generated_Code/Vectors.o
+ .comment       0x00000000       0x71 ./Generated_Code/WiFi.o
+
+.debug_frame    0x00000000       0x94
+ .debug_frame   0x00000000       0x28 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 c:/apps-su/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)

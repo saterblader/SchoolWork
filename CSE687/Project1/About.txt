@@ -1,0 +1,5 @@
+Project 1 for CSE 687 Object Orientated Design Spring 2016
+By Philip D. Geramian 
+497307163
+pdgerami@syr.edu
+Based off starter code provided by Dr. Fawcett

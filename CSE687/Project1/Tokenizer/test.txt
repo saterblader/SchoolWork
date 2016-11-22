@@ -1,0 +1,11 @@
+//C++ comment
+/*
+C Style
+comment
+*/
+Punctuation .{}[]()::+= -= *= /= ++ -- &. ^^ ,.
+this is ont type of string test "\"string test\" string";
+this is another "string test";
+this is another type of string test '\'string test\' string';
+_hello;
+this is a different 'string test';

@@ -1,0 +1,275 @@
+EESchema Schematic File Version 2
+LIBS:CSE398_Robot-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Robot_Library
+LIBS:CSE398_Robot-cache
+EELAYER 25 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 3 5
+Title "CSE398 Robot Power SCH"
+Date "2016-02-26"
+Rev "1"
+Comp "Syracuse University"
+Comment1 "Philip D. Geramian"
+Comment2 "Duane Marcy"
+Comment3 "Designed By:"
+Comment4 ""
+$EndDescr
+$Comp
+L MCP73811 U6
+U 1 1 56C784A6
+P 5800 3250
+F 0 "U6" H 5600 3550 60  0000 C CNN
+F 1 "MCP73811" V 5800 3250 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 5800 3250 60  0001 C CNN
+F 3 "" H 5800 3250 60  0000 C CNN
+	1    5800 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAM2305 U7
+U 1 1 56C784DF
+P 5800 4700
+F 0 "U7" H 5600 4950 60  0000 C CNN
+F 1 "PAM2305" V 5800 4700 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 5800 4700 60  0001 C CNN
+F 3 "" H 5800 4700 60  0000 C CNN
+	1    5800 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Battery BT1
+U 1 1 56C88123
+P 4100 4950
+F 0 "BT1" H 4200 5000 50  0000 L CNN
+F 1 "Battery" H 4200 4900 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" V 4100 4990 60  0001 C CNN
+F 3 "" V 4100 4990 60  0000 C CNN
+	1    4100 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L +BATT #PWR021
+U 1 1 56C8861E
+P 4000 3100
+F 0 "#PWR021" H 4000 2950 50  0001 C CNN
+F 1 "+BATT" H 4000 3240 50  0000 C CNN
+F 2 "" H 4000 3100 60  0000 C CNN
+F 3 "" H 4000 3100 60  0000 C CNN
+	1    4000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR022
+U 1 1 56C8863A
+P 7350 4350
+F 0 "#PWR022" H 7350 4200 50  0001 C CNN
+F 1 "+3.3V" H 7350 4490 50  0000 C CNN
+F 2 "" H 7350 4350 60  0000 C CNN
+F 3 "" H 7350 4350 60  0000 C CNN
+	1    7350 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 3150 5150 3150
+Wire Wire Line
+	5150 3150 5150 2800
+Wire Wire Line
+	5150 2800 6400 2800
+Wire Wire Line
+	6400 2800 6400 3450
+Wire Wire Line
+	6400 3350 6300 3350
+Wire Wire Line
+	6300 3150 6400 3150
+Connection ~ 6400 3150
+Wire Wire Line
+	5550 2550 5550 2800
+Connection ~ 5550 2800
+Wire Wire Line
+	4000 3100 4000 3600
+Wire Wire Line
+	4000 3350 5300 3350
+Connection ~ 4000 3350
+$Comp
+L GND #PWR023
+U 1 1 56C886CE
+P 4800 5500
+F 0 "#PWR023" H 4800 5250 50  0001 C CNN
+F 1 "GND" H 4800 5350 50  0000 C CNN
+F 2 "" H 4800 5500 60  0000 C CNN
+F 3 "" H 4800 5500 60  0000 C CNN
+	1    4800 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 3250 4800 5500
+Wire Wire Line
+	4800 3250 5300 3250
+Wire Wire Line
+	4450 4600 5300 4600
+Wire Wire Line
+	4450 4600 4450 3350
+Connection ~ 4450 3350
+$Comp
+L GND #PWR024
+U 1 1 56C8870E
+P 4100 5300
+F 0 "#PWR024" H 4100 5050 50  0001 C CNN
+F 1 "GND" H 4100 5150 50  0000 C CNN
+F 2 "" H 4100 5300 60  0000 C CNN
+F 3 "" H 4100 5300 60  0000 C CNN
+	1    4100 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 5300 4100 5100
+$Comp
+L C C6
+U 1 1 56C8873B
+P 5150 3600
+F 0 "C6" H 5175 3700 50  0000 L CNN
+F 1 "1uF" H 5175 3500 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 5188 3450 30  0001 C CNN
+F 3 "" H 5150 3600 60  0000 C CNN
+	1    5150 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C8
+U 1 1 56C8887E
+P 6400 3600
+F 0 "C8" H 6425 3700 50  0000 L CNN
+F 1 "1uF" H 6425 3500 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 6438 3450 30  0001 C CNN
+F 3 "" H 6400 3600 60  0000 C CNN
+	1    6400 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 4700 4800 4700
+Connection ~ 4800 4700
+Wire Wire Line
+	6400 3950 6400 3750
+Wire Wire Line
+	4800 3950 6400 3950
+Connection ~ 4800 3950
+Wire Wire Line
+	5150 3750 5150 3950
+Connection ~ 5150 3950
+Wire Wire Line
+	5150 3450 5150 3350
+Connection ~ 5150 3350
+Connection ~ 6400 3350
+$Comp
+L C C7
+U 1 1 56C88AF5
+P 5150 5100
+F 0 "C7" H 5175 5200 50  0000 L CNN
+F 1 "10uF" H 5175 5000 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 5188 4950 30  0001 C CNN
+F 3 "" H 5150 5100 60  0000 C CNN
+	1    5150 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C9
+U 1 1 56C88B64
+P 7350 5100
+F 0 "C9" H 7375 5200 50  0000 L CNN
+F 1 "10uF" H 7375 5000 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 7388 4950 30  0001 C CNN
+F 3 "" H 7350 5100 60  0000 C CNN
+	1    7350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L INDUCTOR L1
+U 1 1 56C88BCE
+P 6800 4600
+F 0 "L1" V 6750 4600 50  0000 C CNN
+F 1 "4.7uH" V 6900 4600 50  0000 C CNN
+F 2 "Capacitors_SMD:C_0805" H 6800 4600 60  0001 C CNN
+F 3 "" H 6800 4600 60  0000 C CNN
+	1    6800 4600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5300 4800 5150 4800
+Wire Wire Line
+	5150 4600 5150 4950
+Connection ~ 5150 4800
+Connection ~ 5150 4600
+Wire Wire Line
+	6500 4600 6300 4600
+Wire Wire Line
+	7100 4600 7350 4600
+Wire Wire Line
+	7350 4350 7350 4950
+Connection ~ 7350 4600
+Wire Wire Line
+	6300 4800 7350 4800
+Connection ~ 7350 4800
+Wire Wire Line
+	7350 5400 7350 5250
+Wire Wire Line
+	4800 5400 7350 5400
+Connection ~ 4800 5400
+Wire Wire Line
+	5150 5250 5150 5400
+Connection ~ 5150 5400
+$Comp
+L +5V #PWR025
+U 1 1 56CCDC8C
+P 5550 2550
+F 0 "#PWR025" H 5550 2400 50  0001 C CNN
+F 1 "+5V" H 5550 2690 50  0000 C CNN
+F 2 "" H 5550 2550 60  0000 C CNN
+F 3 "" H 5550 2550 60  0000 C CNN
+	1    5550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L SWITCH_INV SW2
+U 1 1 56CD9578
+P 4000 4100
+F 0 "SW2" H 3800 4250 50  0000 C CNN
+F 1 "SWITCH_INV" H 3850 3950 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 4000 4100 60  0001 C CNN
+F 3 "" H 4000 4100 60  0000 C CNN
+	1    4000 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4100 4800 4100 4600
+$EndSCHEMATC

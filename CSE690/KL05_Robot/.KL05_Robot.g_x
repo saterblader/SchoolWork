@@ -1,0 +1,130 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_CompilerCpp_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/main.c" FileDate="2016-05-11, 17:30:02" FileAge="1463002202461" FileType="128" />
+      <File Name="Documentation/doxygen/KL05_Robot_project.txt" FileDate="2016-04-27, 17:17:54" FileAge="1461791874000" FileType="45637" CompNumb="3" />
+      <File Name="Documentation/doxygen/Encoder_A1_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="23" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Documentation/doxygen/TU1_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="15" />
+      <File Name="Documentation/doxygen/Sample_IR_component.txt" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="29" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2016-02-11, 18:49:06" FileAge="1455234546000" FileType="45637" CompNumb="3" />
+      <File Name="Documentation/doxygen/TU3_component.txt" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/Motor_A_En.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="16" />
+      <File Name="Sources/Events.h" FileDate="2016-04-27, 17:17:54" FileAge="1461791874000" FileType="131328" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Motor_A_En.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/KL05_Robot_Settings.xml" FileDate="2016-05-11, 10:19:18" FileAge="1462976358257" FileType="3072" />
+      <File Name="Sources/Events.c" FileDate="2016-05-11, 17:27:57" FileAge="1463002077568" FileType="131328" />
+      <File Name="Documentation/doxygen/IMU_LCD_component.txt" FileDate="2016-05-11, 10:19:17" FileAge="1462976357804" FileType="45637" CompNumb="4" />
+      <File Name="Project_Settings/Startup_Code/startup.c" FileDate="2016-02-11, 18:49:02" FileAge="1455234542000" FileType="16384" CompNumb="3" />
+      <File Name="ProjectInfo.xml" FileDate="2016-05-10, 14:28:56" FileAge="1462904936574" FileType="45637" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2016-02-11, 18:49:02" FileAge="1455234542000" FileType="1048576" CompNumb="3" />
+      <File Name="Documentation/KL05_Robot.txt" FileDate="2016-05-06, 12:03:26" FileAge="1462550606000" FileType="3072" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" />
+      <File Name="Generated_Code/TU3.h" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="3" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Motor_B_En.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="14" />
+      <File Name="Static_Code/PDD/MCG_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/TU3.c" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/TU2.h" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Motor_B_En.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/TU2.c" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/TU1.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/WiFi_PD.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="25" />
+      <File Name="Generated_Code/TU1.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/WiFi_PD.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="25" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Documentation/doxygen/Encoder_B0_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="22" />
+      <File Name="Documentation/doxygen/WiFi_component.txt" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="5" />
+      <File Name="Documentation/doxygen/WiFi_PD_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="25" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Static_Code/IO_Map/MKL05Z4.h" FileDate="2016-02-11, 18:49:02" FileAge="1455234542000" FileType="1048576" CompNumb="3" />
+      <File Name="Documentation/doxygen/RoutingReport_component.txt" FileDate="2016-02-11, 18:49:06" FileAge="1455234546000" FileType="45637" CompNumb="3" />
+      <File Name="Documentation/doxygen/Motor_A_En_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="16" />
+      <File Name="Static_Code/PDD/OSC_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/IR_Range_Out.h" FileDate="2016-05-06, 12:03:26" FileAge="1462550606000" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/IR_Range_Out.c" FileDate="2016-05-06, 12:03:26" FileAge="1462550606000" FileType="45637" CompNumb="12" />
+      <File Name="Documentation/doxygen/TU2_component.txt" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Button_Init.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" />
+      <File Name="Generated_Code/WiFi.h" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="5" />
+      <File Name="Documentation/doxygen/Encoder_A0_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="24" />
+      <File Name="Documentation/doxygen/Motor_B_En_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/Button_Init.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="27" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/WiFi.c" FileDate="2016-02-12, 15:51:22" FileAge="1455310282000" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2016-04-27, 17:17:54" FileAge="1461791874000" FileType="45637" CompNumb="3" />
+      <File Name="Documentation/doxygen/Motor_A_Ph_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="20" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Motor_A_Ph.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2016-04-27, 17:17:54" FileAge="1461791874000" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/Motor_A_Ph.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/IMU_LCD.h" FileDate="2016-05-11, 10:19:17" FileAge="1462976357710" FileType="45637" CompNumb="4" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2016-02-11, 18:49:02" FileAge="1455234542000" FileType="16384" CompNumb="3" />
+      <File Name="Generated_Code/IMU_LCD.c" FileDate="2016-05-11, 10:19:17" FileAge="1462976357757" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/doxygen/Button_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="26" />
+      <File Name="Documentation/doxygen/Motor_B_Ph_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="19" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Encoder_A1.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/Encoder_B1.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/Encoder_A1.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/Encoder_A0.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="24" />
+      <File Name="Generated_Code/IR_Range_In.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Motor_B_Ph.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/Encoder_B1.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/Encoder_B0.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/Encoder_A0.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="24" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2016-05-10, 14:28:56" FileAge="1462904936027" FileType="8" CompNumb="3" />
+      <File Name="Generated_Code/IR_Range_In.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Sample_IR.h" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/Motor_B_Ph.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="19" />
+      <File Name="Documentation/doxygen/Button_Init_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="27" />
+      <File Name="Static_Code/PDD/TSI_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Encoder_B0.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="22" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Sample_IR.c" FileDate="2016-04-27, 17:17:52" FileAge="1461791872000" FileType="45637" CompNumb="29" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Documentation/doxygen/IR_Range_Out_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Documentation/KL05_Robot_SIGNALS.txt" FileDate="2016-05-11, 17:30:24" FileAge="1463002224508" FileType="3072" />
+      <File Name="Generated_Code/Button.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="26" />
+      <File Name="Documentation/doxygen/IR_Range_In_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="17" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2016-02-11, 18:49:04" FileAge="1455234544000" FileType="1048576" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2016-04-27, 17:17:54" FileAge="1461791874000" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/Button.c" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" />
+      <File Name="Documentation/doxygen/Encoder_B1_component.txt" FileDate="2016-02-12, 15:51:20" FileAge="1455310280000" FileType="45637" CompNumb="21" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>14</CodeGenReference>
+</CodeGenerationInfo>
