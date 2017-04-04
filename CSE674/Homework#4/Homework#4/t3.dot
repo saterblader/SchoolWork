@@ -1,0 +1,17 @@
+strict digraph G{
+s->t[label="10"]
+s->y[label="5"]
+s
+t->x[label="1"]
+t->y[label="2"]
+t
+x->z[label="40"]
+x
+y->t[label="3"]
+y->x[label="9"]
+y->z[label="2"]
+y
+z->s[label="7"]
+z->x[label="6"]
+z
+}

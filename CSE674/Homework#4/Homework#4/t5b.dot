@@ -1,0 +1,8 @@
+strict graph G{
+7--2[arrowhead = none]
+9--10[arrowhead = none]
+9--4[arrowhead = none]
+10--5[arrowhead = none]
+1
+3
+}

@@ -1,0 +1,67 @@
+digraph G{
+ 0 [label="0,0"]
+ 0->1[style = invis]
+ 1 [label = "", width = .1, style = invis]
+ 0->2
+ 2 [label="1000,1"]
+ 2->3
+ 3 [label="500,2"]
+ 3->4[style = invis]
+ 4 [label = "", width = .1, style = invis]
+ 3->5
+ 5 [label="750,3"]
+ 5->6
+ 6 [label="625,4"]
+ 6->7[style = invis]
+ 7 [label = "", width = .1, style = invis]
+ 6->8
+ 8 [label="687,5"]
+ 8->9
+ 9 [label="656,6"]
+ 9->10[style = invis]
+ 10 [label = "", width = .1, style = invis]
+ 9->11
+ 11 [label="671,7"]
+ 11->12
+ 12 [label="663,8"]
+ 12->13[style = invis]
+ 13 [label = "", width = .1, style = invis]
+ 12->14
+ 14 [label="667,9"]
+ 14->15
+ 15 [label="665,10"]
+ 15->16
+ 16 [label="665,12"]
+ 16->17
+ 17 [label="665,13"]
+ 17->18
+ 18 [label="665,14"]
+ 18->19
+ 19 [label="665,15"]
+ 19->20[style = invis]
+ 20 [label = "", width = .1, style = invis]
+ 19->21[style = invis]
+ 21 [label = "", width = .1, style = invis]
+ 18->22[style = invis]
+ 22 [label = "", width = .1, style = invis]
+ 17->23[style = invis]
+ 23 [label = "", width = .1, style = invis]
+ 16->24[style = invis]
+ 24 [label = "", width = .1, style = invis]
+ 15->25
+ 25 [label="666,11"]
+ 25->26[style = invis]
+ 26 [label = "", width = .1, style = invis]
+ 25->27[style = invis]
+ 27 [label = "", width = .1, style = invis]
+ 14->28[style = invis]
+ 28 [label = "", width = .1, style = invis]
+ 11->29[style = invis]
+ 29 [label = "", width = .1, style = invis]
+ 8->30[style = invis]
+ 30 [label = "", width = .1, style = invis]
+ 5->31[style = invis]
+ 31 [label = "", width = .1, style = invis]
+ 2->32[style = invis]
+ 32 [label = "", width = .1, style = invis]
+}

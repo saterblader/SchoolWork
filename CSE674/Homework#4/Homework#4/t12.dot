@@ -1,0 +1,13 @@
+strict graph G{
+s--t[label="10"][arrowhead = none]
+s--y[label="5"][arrowhead = none]
+s--z[label="7"][arrowhead = none]
+t--x[label="1"][arrowhead = none]
+t--y[label="2"][arrowhead = none]
+x--z[label="4"][arrowhead = none]
+x--y[label="9"][arrowhead = none]
+y--z[label="2"][arrowhead = none]
+s--y[color=blue]
+y--t[color=blue]
+t--x[color=blue]
+}

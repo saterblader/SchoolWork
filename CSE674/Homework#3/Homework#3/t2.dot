@@ -1,0 +1,67 @@
+digraph G{
+ 0 [label="0,500,0"]
+ 0->1[style = invis]
+ 1 [label = "", width = .1, style = invis]
+ 0->2
+ 2 [label="500,0,1"]
+ 2->3[style = invis]
+ 3 [label = "", width = .1, style = invis]
+ 2->4
+ 4 [label="250,250,2"]
+ 4->5[style = invis]
+ 5 [label = "", width = .1, style = invis]
+ 4->6
+ 6 [label="375,125,3"]
+ 6->7[style = invis]
+ 7 [label = "", width = .1, style = invis]
+ 6->8
+ 8 [label="312,188,4"]
+ 8->9[style = invis]
+ 9 [label = "", width = .1, style = invis]
+ 8->10
+ 10 [label="343,157,5"]
+ 10->11[style = invis]
+ 11 [label = "", width = .1, style = invis]
+ 10->12
+ 12 [label="327,173,6"]
+ 12->13[style = invis]
+ 13 [label = "", width = .1, style = invis]
+ 12->14
+ 14 [label="335,165,7"]
+ 14->15[style = invis]
+ 15 [label = "", width = .1, style = invis]
+ 14->16
+ 16 [label="331,169,8"]
+ 16->17[style = invis]
+ 17 [label = "", width = .1, style = invis]
+ 16->18
+ 18 [label="333,167,9"]
+ 18->19[style = invis]
+ 19 [label = "", width = .1, style = invis]
+ 18->20
+ 20 [label="332,168,10"]
+ 20->21
+ 21 [label="332,168,11"]
+ 21->22
+ 22 [label="332,168,12"]
+ 22->23
+ 23 [label="332,168,13"]
+ 23->24
+ 24 [label="332,168,14"]
+ 24->25
+ 25 [label="332,168,15"]
+ 25->26[style = invis]
+ 26 [label = "", width = .1, style = invis]
+ 25->27[style = invis]
+ 27 [label = "", width = .1, style = invis]
+ 24->28[style = invis]
+ 28 [label = "", width = .1, style = invis]
+ 23->29[style = invis]
+ 29 [label = "", width = .1, style = invis]
+ 22->30[style = invis]
+ 30 [label = "", width = .1, style = invis]
+ 21->31[style = invis]
+ 31 [label = "", width = .1, style = invis]
+ 20->32[style = invis]
+ 32 [label = "", width = .1, style = invis]
+}

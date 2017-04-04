@@ -1,0 +1,225 @@
+
+Test Case 1:
+Verifiying the contents of the queue
+The queue is empty.
+Inserting Data items: [100 1] [99 2] ... [1 100]
+Extracted Minimums: [1 100] 
+Inserting [1 0] into queue
+Extracted Minimums: [1 0] 
+
+Test Case 2:
+Verifiying the contents of the queue
+The queue is empty.
+Inserting Data items: [1000 1] [999 2] ... [1 1000]
+All Minimums: [1 1000] 
+Inserting Data items: [1 1] [1 2] ... [1 30]
+Extracted Minimums: [1 1] [1 2] [1 3] [1 4] [1 5] [1 6] [1 7] [1 8] [1 9] [1 10] [1 11] [1 12] [1 13] [1 14] [1 15] [1 16] [1 17] [1 18] [1 19] [1 20] [1 21] [1 22] [1 23] [1 24] [1 25] [1 26] [1 27] [1 28] [1 29] [1 30] [1 1000] 
+All Minimums: [2 999] 
+
+Test Case 3:
+Verifiying the contents of the queue
+The queue is empty.
+Generating 500 random data items [i,j]. (10 >= [i,j] <= 1000)
+Extracted Minimums: [10 10] [10 140] 
+Extracted Minimums: [12 420] 
+Extracted Minimums: [14 937] 
+Extracted Minimums: [15 922] 
+Extracted Minimums: [16 184] 
+Changing the Priority of [830 166] to 5.
+All Minimums: [5 166] 
+
+Test Case 4:
+Verifiying the contents of the queue
+The queue is empty.
+Generating 500 random data items [i,j]. (10 >= [i,j] <= 1000)
+Changing the Priority of [167 147] to 9.
+Extracted Minimums: [9 147] 
+Changing the Priority of [856 161] to 8.
+Extracted Minimums: [8 161] 
+Changing the Priority of [603 659] to 8.
+Extracted Minimums: [8 659] 
+Changing the Priority of [658 352] to 2.
+Extracted Minimums: [2 352] 
+Changing the Priority of [451 156] to 7.
+Extracted Minimums: [7 156] 
+Changing the Priority of [348 443] to 5.
+Extracted Minimums: [5 443] 
+Changing the Priority of [389 487] to 1.
+Extracted Minimums: [1 487] 
+Changing the Priority of [172 288] to 7.
+Extracted Minimums: [7 288] 
+Changing the Priority of [920 630] to 1.
+Extracted Minimums: [1 630] 
+Changing the Priority of [14 629] to 3.
+Extracted Minimums: [3 629] 
+
+Test Case 5:
+Verifiying the contents of the queue
+The queue is empty.
+Iteration: 1 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 2 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 3 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 4 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 5 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 6 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 7 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 8 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 9 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 10 Randomly Selected All Minimum.
+The queue is empty.
+Iteration: 11 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 12 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 13 Randomly Selected Insert.
+Iteration: 14 Randomly Selected Extract All Minimum.
+Iteration: 15 Randomly Selected Insert.
+Iteration: 16 Randomly Selected All Minimum.
+Iteration: 17 Randomly Selected Decrease Key.
+Iteration: 18 Randomly Selected Extract All Minimum.
+Iteration: 19 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 20 Randomly Selected Decrease Key.
+The queue is empty.
+Contents of the Queue at Iteration: 20
+Iteration: 21 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 22 Randomly Selected Insert.
+Iteration: 23 Randomly Selected All Minimum.
+Iteration: 24 Randomly Selected All Minimum.
+Iteration: 25 Randomly Selected Insert.
+Iteration: 26 Randomly Selected All Minimum.
+Iteration: 27 Randomly Selected Extract All Minimum.
+Iteration: 28 Randomly Selected Extract All Minimum.
+Iteration: 29 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 30 Randomly Selected Insert.
+Iteration: 31 Randomly Selected Insert.
+Iteration: 32 Randomly Selected All Minimum.
+Iteration: 33 Randomly Selected All Minimum.
+Iteration: 34 Randomly Selected All Minimum.
+Iteration: 35 Randomly Selected Extract All Minimum.
+Iteration: 36 Randomly Selected Decrease Key.
+Iteration: 37 Randomly Selected Extract All Minimum.
+Iteration: 38 Randomly Selected Insert.
+Iteration: 39 Randomly Selected All Minimum.
+Iteration: 40 Randomly Selected Insert.
+Contents of the Queue at Iteration: 40
+[733 632]
+[813 30]
+Iteration: 41 Randomly Selected All Minimum.
+Iteration: 42 Randomly Selected All Minimum.
+Iteration: 43 Randomly Selected Extract All Minimum.
+Iteration: 44 Randomly Selected Insert.
+Iteration: 45 Randomly Selected Extract All Minimum.
+Iteration: 46 Randomly Selected Decrease Key.
+Iteration: 47 Randomly Selected All Minimum.
+Iteration: 48 Randomly Selected All Minimum.
+Iteration: 49 Randomly Selected All Minimum.
+Iteration: 50 Randomly Selected Decrease Key.
+Iteration: 51 Randomly Selected All Minimum.
+Iteration: 52 Randomly Selected Decrease Key.
+Iteration: 53 Randomly Selected Insert.
+Iteration: 54 Randomly Selected Extract All Minimum.
+Iteration: 55 Randomly Selected All Minimum.
+Iteration: 56 Randomly Selected Extract All Minimum.
+Iteration: 57 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 58 Randomly Selected Insert.
+Iteration: 59 Randomly Selected Decrease Key.
+Iteration: 60 Randomly Selected Extract All Minimum.
+Contents of the Queue at Iteration: 60
+Iteration: 61 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 62 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 63 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 64 Randomly Selected All Minimum.
+The queue is empty.
+Iteration: 65 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 66 Randomly Selected Decrease Key.
+The queue is empty.
+Iteration: 67 Randomly Selected Extract All Minimum.
+The queue is empty.
+Iteration: 68 Randomly Selected Insert.
+Iteration: 69 Randomly Selected Insert.
+Iteration: 70 Randomly Selected Insert.
+Iteration: 71 Randomly Selected All Minimum.
+Iteration: 72 Randomly Selected Decrease Key.
+Iteration: 73 Randomly Selected All Minimum.
+Iteration: 74 Randomly Selected Extract All Minimum.
+Iteration: 75 Randomly Selected Insert.
+Iteration: 76 Randomly Selected All Minimum.
+Iteration: 77 Randomly Selected Decrease Key.
+Iteration: 78 Randomly Selected Insert.
+Iteration: 79 Randomly Selected Decrease Key.
+Iteration: 80 Randomly Selected Insert.
+Contents of the Queue at Iteration: 80
+[2 547]
+[55 829]
+[104 569]
+[735 737]
+[878 89]
+Iteration: 81 Randomly Selected Extract All Minimum.
+Iteration: 82 Randomly Selected Insert.
+Iteration: 83 Randomly Selected Decrease Key.
+Iteration: 84 Randomly Selected Insert.
+Iteration: 85 Randomly Selected Insert.
+Iteration: 86 Randomly Selected Extract All Minimum.
+Iteration: 87 Randomly Selected Decrease Key.
+Iteration: 88 Randomly Selected Decrease Key.
+Iteration: 89 Randomly Selected All Minimum.
+Iteration: 90 Randomly Selected Extract All Minimum.
+Iteration: 91 Randomly Selected Extract All Minimum.
+Iteration: 92 Randomly Selected Decrease Key.
+Iteration: 93 Randomly Selected Insert.
+Iteration: 94 Randomly Selected All Minimum.
+Iteration: 95 Randomly Selected Insert.
+Iteration: 96 Randomly Selected All Minimum.
+Iteration: 97 Randomly Selected Insert.
+Iteration: 98 Randomly Selected All Minimum.
+Iteration: 99 Randomly Selected Extract All Minimum.
+Iteration: 100 Randomly Selected Decrease Key.
+Contents of the Queue at Iteration: 100
+[227 961]
+[229 662]
+[274 317]
+[643 251]
+[735 737]
+[850 89]
+
+Test Case 6:
+The total number of comparisons performed among elements in the Leonardo Heap = 17657
+A shortened list of elements in the Leonardo Heap:
+[ 1,21,41,61,81,101,121,141,161,181,201,221,241,261,281,301,321,341,361,381,401,421,441,461,481,501,521,541,561,581,601,621,641,661,681,701,721,741,761,781,801,821,841,861,881,901,921,941,961,981 ]
+
+Test Case 7:
+The total number of comparisons performed among elements in the Leonardo Heap = 48151
+A shortened list of elements in the Leonardo Heap:
+[ 1,21,41,61,81,101,121,141,161,181,201,221,241,261,281,301,321,341,361,381,401,421,441,461,481,501,521,541,561,581,601,621,641,661,681,701,721,741,761,781,801,821,841,861,881,901,921,941,961,981,1001,1021,1041,1061,1081,1101,1121,1141,1161,1181,1201,1221,1241,1261,1281,1301,1321,1341,1361,1381,1401,1421,1441,1461,1481,1501,1521,1541,1561,1581,1601,1621,1641,1661,1681,1701,1721,1741,1761,1781,1801,1821,1841,1861,1881,1901,1921,1941,1961,1981 ]
+
+Test Case 8:
+The total number of comparisons performed among elements in the Leonardo Heap = 48151
+A shortened list of elements in the Leonardo Heap:
+[ 1,21,41,61,81,101,121,141,161,181,201,221,241,261,281,301,321,341,361,381,401,421,441,461,481,501,521,541,561,581,601,621,641,661,681,701,721,741,761,781,801,821,841,861,881,901,921,941,961,981,1001,1021,1041,1061,1081,1101,1121,1141,1161,1181,1201,1221,1241,1261,1281,1301,1321,1341,1361,1381,1401,1421,1441,1461,1481,1501,1521,1541,1561,1581,1601,1621,1641,1661,1681,1701,1721,1741,1761,1781,1801,1821,1841,1861,1881,1901,1921,1941,1961,1981 ]
+
+Test Case 9:
+The total number of comparisons performed among elements in the Leonardo Heap = 76425
+A shortened list of elements in the Leonardo Heap:
+[ 1,82,145,223,294,343,415,467,526,628,668,759,818,878,929,978,1025,1089,1166,1271,1332,1419,1463,1511,1577,1639,1709,1752,1817,1861,1930,1989,2054,2115,2177,2243,2285,2378,2434,2499,2540,2590,2651,2696,2751,2811,2874,2944,3011,3104,3171,3235,3304,3362,3424,3493,3557,3643,3714,3780,3855,3908,3971,4018,4085,4131,4188,4243,4294,4355,4443,4503,4553,4621,4715,4771,4836,4901,4958,5015,5070,5137,5183,5238,5320,5382,5457,5511,5596,5660,5704,5781,5848,5900,5929,6018,6071,6116,6191,6238,6351,6409,6482,6560,6639,6687,6771,6820,6892,6948,7010,7062,7124,7178,7216,7259,7311,7389,7452,7499,7556,7629,7704,7781,7841,7921,7980,8036,8114,8158,8200,8256,8298,8353,8403,8454,8508,8579,8634,8689,8723,8793,8860,8928,8989,9057,9110,9196,9253,9317,9361,9431,9521,9585,9664,9749,9803,9863,9920,9974, ]
+
+Test Case 10:
+The total number of comparisons performed among elements in the Leonardo Heap = 132848
+A shortened list of elements in the Leonardo Heap:
+[ 1,33,67,119,161,203,250,283,315,342,384,417,465,494,528,567,595,624,664,716,751,783,821,860,899,928,970,1010,1051,1082,1122,1164,1200,1239,1281,1316,1356,1410,1443,1480,1523,1582,1614,1662,1701,1733,1768,1808,1848,1890,1921,1956,1992,2042,2091,2137,2163,2192,2223,2261,2294,2344,2378,2413,2437,2469,2500,2533,2591,2628,2673,2735,2770,2812,2857,2901,2929,2973,3009,3058,3110,3144,3181,3219,3246,3278,3308,3346,3382,3423,3454,3489,3525,3581,3608,3649,3680,3732,3763,3805,3851,3892,3927,3960,3983,4021,4055,4092,4132,4170,4213,4250,4282,4323,4359,4398,4434,4484,4529,4560,4600,4651,4677,4710,4742,4782,4821,4855,4895,4935,4966,5008,5033,5071,5118,5169,5198,5220,5267,5310,5365,5410,5437,5494,5518,5553,5594,5619,5650,5697,5740,5810,5847,5881,5923,5966,6011,6040,6077,6112,6153,6187,6217,6268,6311,6340,6387,6414,6453,6496,6525,6571,6604,6645,6683,6713,6765,6810,6842,6869,6912,6934,6978,7013,7067,7114,7163,7195,7228,7274,7312,7351,7385,7412,7461,7496,7534,7578,7624,7648,7695,7721,7770,7798,7831,7859,7906,7948,7975,8013,8062,8105,8141,8186,8223,8258,8308,8346,8389,8429,8475,8516,8557,8609,8647,8691,8726,8751,8790,8832,8863,8893,8948,8990,9025,9065,9112,9140,9167,9216,9240,9279,9313,9359,9395,9438,9475,9503,9542,9596,9652,9707,9762,9804,9835,9875,9909,9949,9990, ]

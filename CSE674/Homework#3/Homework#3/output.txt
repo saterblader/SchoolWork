@@ -1,0 +1,104 @@
+Running Test Case #1
+	Creating List 1
+	File t1.dot created
+Running Test Case #2
+	Creating List 2
+	File t2.dot created
+Running Test Case #3
+-------------------------------------------------------------------------------------------
+n= No. of Nodes in the Tree		Height of BST T3	lgn	sqrt(n)
+-------------------------------------------------------------------------------------------
+                          0	                  -1	     N.A.	0
+                         20	                   9	  4.32193	4.47214
+                         40	                  10	  5.32193	6.32456
+                         60	                  12	  5.90689	7.74597
+                         80	                  13	  6.32193	8.94427
+                        100	                  13	  6.64386	10
+                        120	                  13	  6.90689	10.9545
+                        140	                  14	  7.12928	11.8322
+                        160	                  14	  7.32193	12.6491
+                        180	                  14	  7.49185	13.4164
+                        200	                  15	  7.64386	14.1421
+-------------------------------------------------------------------------------------------
+Running Test Case #4
+-------------------------------------------------------------------------------------------
+n= No. of Nodes in the Tree		Height of BST T4	lgn	sqrt(n)
+-------------------------------------------------------------------------------------------
+                          0	                  -1	     N.A.	0
+                         20	                   8	  4.32193	4.47214
+                         40	                   9	  5.32193	6.32456
+                         60	                  10	  5.90689	7.74597
+                         80	                  11	  6.32193	8.94427
+                        100	                  12	  6.64386	10
+                        120	                  12	  6.90689	10.9545
+                        140	                  12	  7.12928	11.8322
+                        160	                  12	  7.32193	12.6491
+                        180	                  13	  7.49185	13.4164
+                        200	                  14	  7.64386	14.1421
+-------------------------------------------------------------------------------------------
+Running Test Case #5
+	Creating List 5
+	Making t5-a.dot
+		Removing the head of List 5
+	Making t5-b.dot
+Running Test Case #6
+	Creating List 6
+	Making t6-a.dot
+		Removing the head of List 6
+	Making t6-b.dot
+Running Test Case #7
+	Creating List 7
+-------------------------------------------------------------------------------------------
+Stage	 Data item at root	 The root (after deletion)	 Search for data with key
+-------------------------------------------------------------------------------------------
+    0	           [1, 0]	                   [1, 10]	                  [1, 10]
+    1	           [1, 10]	                   [2, 1]	                  nil
+    2	           [2, 1]	                   [2, 11]	                  [2, 11]
+    3	           [2, 11]	                   [3, 2]	                  nil
+    4	           [3, 2]	                   [3, 12]	                  [3, 12]
+    5	           [3, 12]	                   [4, 3]	                  nil
+    6	           [4, 3]	                   [4, 13]	                  [4, 13]
+    7	           [4, 13]	                   [5, 4]	                  nil
+    8	           [5, 4]	                   [5, 14]	                  [5, 14]
+    9	           [5, 14]	                   [6, 5]	                  nil
+   10	           [6, 5]	                   [6, 15]	                  [6, 15]
+   11	           [6, 15]	                   [7, 6]	                  nil
+   12	           [7, 6]	                   [7, 16]	                  [7, 16]
+   13	           [7, 16]	                   [8, 7]	                  nil
+   14	           [8, 7]	                   [8, 17]	                  [8, 17]
+   15	           [8, 17]	                   [9, 8]	                  nil
+   16	           [9, 8]	                   [9, 18]	                  [9, 18]
+   17	           [9, 18]	                   [10, 9]	                  nil
+   18	           [10, 9]	                   [10, 19]	                  [10, 19]
+   19	           [10, 19]	                   nil	                          nil
+   20	           nil	                           nil	                          nil
+-------------------------------------------------------------------------------------------
+Running Test Case #8
+	Creating List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+Item L3 is present
+	[3, 3, 3]
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+Making t8-a.dot
+		Removing the head of List 8
+Item L7 is present
+	[1, 7, 7]
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+Item L12 is present
+	[6, 12, 12]
+Making t8-b.dot
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+		Removing the head of List 8
+List 8 is now empty

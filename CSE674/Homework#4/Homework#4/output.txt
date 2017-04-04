@@ -1,0 +1,133 @@
+Running Test Case #1
+Creating Graph object...
+Creating t1.dot based off object G1
+
+Running Test Case #2
+Creating Graph object...
+Creating t2.dot based off object G2
+
+Running Test Case #3
+Creating Graph object...
+Creating t3.dot based off object G3
+
+Running Test Case #4
+Creating Graph G1...
+Inserting vertex z
+Inserting edges (z,w), (z,x), (z,y)
+Creating t4a.dot based off object G1
+Removing vertex s
+Removing vertex x
+Removing edge (u,t)
+Creating t4b.dot based off object G1
+
+Running Test Case #5
+Creating Graph Ue...
+Inserting vertexs 6, ..., 10
+Inserting edges (6,7), (7,8), (8,9), (9,10), (10,6)
+Inserting vertexs 1, ..., 5
+Inserting edges (1,6), (2,7), (3,8), (4,9), (5,10)
+Creating t5a.dot based off object Ue
+Removing vertex 8
+Removing vertex 6
+Creating t5b.dot based off object Ue
+
+Running Test Case #6
+Creating Directed Graph De...
+
+Inserting vertices 2, 4, 6, 8, 10 in a random order
+Inserting vertex 6
+Inserting vertex 10
+Inserting vertex 2
+Inserting vertex 4
+Inserting vertex 8
+Inserting edges (2,4), (2,6), (4,6), (4,8), (6,8), (6,10), (8,10), (8,2)
+
+Inserting vertices 1, 3, 5, 7, 9 in a random order
+Inserting vertex 1
+Inserting vertex 7
+Inserting vertex 5
+Inserting vertex 9
+Inserting vertex 3
+Inserting edges (1,2), (3,4), (5,6), (7,8), (9,10)
+
+Creating t6a.dot based off object De
+Randomly selecting a vertex from 2, 4, 6, 8, 10 to remove
+Randomly selected 8 for removal
+Randomly selecting a vertex from 1, 3, 5, 7, 9 to remove
+Randomly selected 3 for removal
+Creating t6b.dot based off object De
+
+Running Test Case #7
+Creating Directed and weighted Graph G3...
+-------------------------------------------
+	s	t	x	y	z
+-------------------------------------------
+s	0	8	9	5	7
+t	11	0	1	2	4
+x	11	19	0	16	4
+y	9	3	4	0	2
+z	7	15	6	12	0
+-------------------------------------------
+
+Running Test Case #8
+Creating Undirected and weighted Graph G4...
+-------------------------------------------
+	s	t	x	y	z
+-------------------------------------------
+s	0	7	8	5	7
+t	7	0	1	2	4
+x	8	1	0	3	4
+y	5	2	3	0	2
+z	7	4	4	2	0
+-------------------------------------------
+
+Running Test Case #9
+Creating Directed and weighted Graph G3...
+--------------------------------------------------------------
+Vertex	The path from source vertex s to this vertex in G3
+--------------------------------------------------------------
+s	nil
+t	y->t
+x	y->t->x
+y	y
+z	y->z
+--------------------------------------------------------------
+Vertex	The path from source vertex z to this vertex in G3
+--------------------------------------------------------------
+s	s
+t	s->y->t
+x	x
+y	s->y
+z	nil
+
+Running Test Case #10
+Creating undirected and weighted Graph G4...
+--------------------------------------------------------------
+Vertex	The path from source vertex s to this vertex in G4
+--------------------------------------------------------------
+s	nil
+t	y->t
+x	y->t->x
+y	y
+z	z
+--------------------------------------------------------------
+Vertex	The path from source vertex z to this vertex in G4
+--------------------------------------------------------------
+s	s
+t	y->t
+x	x
+y	y
+z	nil
+
+Running Test Case #11
+Creating Directed and weighted Graph G3...
+stxyzMost expensive shortest path is:
+x->z->s->y->t
+Creating file t11.dot with most expensive shortest path lined in red
+
+Running Test Case #12
+Creating Undirected and weighted Graph G4...
+stxyzMost expensive shortest path is:
+s--y--t--x
+Creating file t12.dot with most expensive shortest path lined in blue
+

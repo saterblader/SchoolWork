@@ -1,0 +1,43 @@
+digraph G{
+ 0 [label="335,165,7"]
+ 0->1
+ 1 [label="331,169,8"]
+ 1->2
+ 2 [label="333,167,9"]
+ 2->3
+ 3 [label="332,168,10"]
+ 3->4[style = invis]
+ 4 [label = "", width = .1, style = invis]
+ 3->5[style = invis]
+ 5 [label = "", width = .1, style = invis]
+ 2->6[style = invis]
+ 6 [label = "", width = .1, style = invis]
+ 1->7
+ 7 [label="312,188,4"]
+ 7->8
+ 8 [label="0,500,0"]
+ 8->9
+ 9 [label="250,250,2"]
+ 9->10[style = invis]
+ 10 [label = "", width = .1, style = invis]
+ 9->11[style = invis]
+ 11 [label = "", width = .1, style = invis]
+ 8->12[style = invis]
+ 12 [label = "", width = .1, style = invis]
+ 7->13
+ 13 [label="327,173,6"]
+ 13->14[style = invis]
+ 14 [label = "", width = .1, style = invis]
+ 13->15[style = invis]
+ 15 [label = "", width = .1, style = invis]
+ 0->16
+ 16 [label="343,157,5"]
+ 16->17
+ 17 [label="375,125,3"]
+ 17->18[style = invis]
+ 18 [label = "", width = .1, style = invis]
+ 17->19[style = invis]
+ 19 [label = "", width = .1, style = invis]
+ 16->20[style = invis]
+ 20 [label = "", width = .1, style = invis]
+}

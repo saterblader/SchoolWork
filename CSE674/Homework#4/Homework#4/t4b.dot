@@ -1,0 +1,7 @@
+strict graph G{
+r--v[arrowhead = none]
+t--w[arrowhead = none]
+u--y[arrowhead = none]
+w--z[arrowhead = none]
+y--z[arrowhead = none]
+}

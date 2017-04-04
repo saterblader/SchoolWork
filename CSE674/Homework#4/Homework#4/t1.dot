@@ -1,0 +1,12 @@
+strict graph G{
+r--s[arrowhead = none]
+r--v[arrowhead = none]
+s--w[arrowhead = none]
+t--u[arrowhead = none]
+t--w[arrowhead = none]
+t--x[arrowhead = none]
+u--x[arrowhead = none]
+u--y[arrowhead = none]
+w--x[arrowhead = none]
+x--y[arrowhead = none]
+}
